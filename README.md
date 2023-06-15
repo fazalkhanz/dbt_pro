@@ -1,1 +1,1 @@
-# dbt_pro
+# dbt_bq_demo
